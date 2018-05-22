@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Lists</string>
+    <string-array name="persons">
+        <item>Antony Martial</item>
+        <item>Wayn Roony</item>
+        <item>David Degea</item>
+        <item>Jese Ligard</item>
+        <item>Phil Jones</item>
+        <item>Lionel Messi</item>
+        <item>Luka Modric</item>
+        <item>Peter Cech</item>
+        <item>Juan Mata</item>
+        <item>Marcos Rojo</item>
+        <item>Harrison Wells</item>
+        <item>Iris West</item>
+        <item>Joe Mark</item>
+        <item>Mary Doe</item>
+        <item>Nemanja Matic</item>
+        <item>David Moyes</item>
+        <item>Adnan Januzaj</item>
+        <item>Paul Pogba</item>
+        <item>Sergio Romero</item>
+        <item>Alexis Sanchez</item>
+        <item>Marcos Rojo</item>
+    </string-array>
+</resources>
